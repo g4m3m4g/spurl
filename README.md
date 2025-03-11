@@ -2,7 +2,7 @@
 
 A modern and minimal URL shortener built with **React** (Frontend) and **Go** (Backend). This project allows users to shorten long URLs into compact, shareable links.
 
-![Screenshot](screenshot.png) <!-- Add a screenshot of your project here -->
+![Screenshot](https://github.com/user-attachments/assets/aa20372f-ff4a-4397-99b5-b22ac1627ce9)
 
 ## Features
 
