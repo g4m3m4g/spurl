@@ -28,7 +28,7 @@ A modern and minimal URL shortener built with **React** (Frontend) and **Go** (B
 
 ## Live Demo
 
-Check out the live demo of the project: [Live Demo](https://spurl.vercel.app)
+Check out the live demo of the project: [Live Demo](https://spurl-demo.vercel.app)
 
 ## Setup Instructions
 
