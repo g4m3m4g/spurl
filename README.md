@@ -1,4 +1,4 @@
-# URL Shortener
+# [SPURL - URL shortener](https://spurl-demo.vercel.app)
 
 A modern and minimal URL shortener built with **React** (Frontend) and **Go** (Backend). This project allows users to shorten long URLs into compact, shareable links.
 
